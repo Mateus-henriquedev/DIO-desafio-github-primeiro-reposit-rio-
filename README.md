@@ -5,7 +5,7 @@ Seja bem vindo, aqui é aonde mostrarei meu desenvolvimento em projetos atuais/f
 
 
 * Projeto Dia a Dia de QA - DIO
-  * Fluxo de tranalho
+  * Fluxo de trabalho
   * User Stories 
 
 
